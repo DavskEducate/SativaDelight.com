@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://SativaDelight.com/categories/</loc>
+    <loc>https://SativaDelight.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://SativaDelight.com/</loc>
+    <loc>https://SativaDelight.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://SativaDelight.com/tags/</loc>
+    <loc>https://SativaDelight.com/tags/</loc>
     <priority>0</priority>
   </url>
   
